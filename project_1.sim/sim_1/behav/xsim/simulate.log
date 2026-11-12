@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+
+Содержимое памяти (индекс: [значение, левый, правый]):
+Ячейка 00: 0000011100110001 -> [Val: 7, Left: 3, Right: 1]
+Ячейка 01: 0000100100101111 -> [Val: 9, Left: 2, Right: -1]
+Ячейка 02: 0000100011111111 -> [Val: 8, Left: -1, Right: -1]
+Ячейка 03: 0000001111110100 -> [Val: 3, Left: -1, Right: 4]
+Ячейка 04: 0000010111111111 -> [Val: 5, Left: -1, Right: -1]
+$finish called at time : 3420 ns : File "C:/Users/cosmo/VivadoProjects/project_1/project_1.srcs/sim_1/new/TOP_tb.v" Line 132
